@@ -43,7 +43,7 @@ merge.bat
 pr.bat
 
 refs/
-lectures/
+#lectures/
 labs/
 appendix/
 wsl/

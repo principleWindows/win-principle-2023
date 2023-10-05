@@ -109,10 +109,10 @@ slides and resource for the course "principle of windows and its applications"
 
 ### 2.1 SSH Connection
 
-使用 git 工具来管理项目, 通常会使用 SSH 来连接代码仓库。win10 下如何
+使用 git 工具来管理项目, 通常会使用 SSH 来连接代码仓库。win11 下如何
 安装 SSH client 参见:
 
-[win10 安装SSH](git/ssh_client.md)
+[win11 安装SSH](https://gitee.com/principlewindows/gitMem/blob/master/connection/ssh_client.md)
 
 
 生成并使用 ssh-key:

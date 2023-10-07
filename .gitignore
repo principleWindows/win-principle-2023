@@ -32,6 +32,7 @@
 *.app
 
 .vs/
+.git/
 
 # ppt temporary
 ~$*.pptx
@@ -44,7 +45,18 @@ pr.bat
 
 refs/
 #lectures/
-labs/
+#labs/
 appendix/
 wsl/
+
+multiThreadsWinUI/
+winUI3/
+WPFTest/
+lab_2/
+lab_3/
+gym.md
+msys2.md
+python_env.md
+pytorch.md
+tips*.md
 
